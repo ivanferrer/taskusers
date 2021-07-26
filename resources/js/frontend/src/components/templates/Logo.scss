@@ -1,0 +1,22 @@
+aside.logo {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+aside.logo a {
+    text-decoration: none;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    color: #333;
+    padding: 1px 21px;
+    h2 {
+        font-size: 30px;
+        font-weight: bold;
+        color:darkolivegreen;
+    }
+}
